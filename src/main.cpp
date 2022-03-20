@@ -8,7 +8,6 @@ struct Move {
 };
 
 class Game {
-  // player, computer, grid[3][3]
   char player = 'X';
   char bot = 'O';
 
